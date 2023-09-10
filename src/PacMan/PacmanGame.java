@@ -259,6 +259,7 @@ public class PacmanGame extends JPanel {
         buttonPanel1.setLayout(new BoxLayout(buttonPanel1, BoxLayout.Y_AXIS));
         buttonPanel1.add(playButton);
         buttonPanel1.add(elementSelector);
+        buttonPanel1.add(playAgainButton);
         buttonPanel1.add(clearButton);
         buttonPanel1.setBackground(Color.BLACK);
         
