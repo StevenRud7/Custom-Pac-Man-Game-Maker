@@ -20,3 +20,15 @@ To learn how to play click the information, "i", button.
 Basic Custom Game Build:
 
 ![plot](./src/resources/Basic%20Game.png)
+
+All Possible Elements to Place in a Custom Game:
+
+![plot](./src/resources/Options.png)
+
+The Default look if you just want to play:
+
+![plot](./src/resources/Default%20Game.png)
+
+How to Play the game as shown when clicking the "i" button for the game information:
+
+![plot](./src/resources/Information.png)
