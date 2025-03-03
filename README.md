@@ -14,5 +14,9 @@ This is a way to make your own custom Pac-Man Game. Full Code in the src PacMan 
 
 # Playing the Game
 
-Simply Download the Pacman Maker.jar file and launch it to begin playing.
+Download the Code and run to play. 
 To learn how to play click the information, "i", button.
+
+Basic Custom Game Build:
+
+![plot]("./src/resources/Basic Game.png")
