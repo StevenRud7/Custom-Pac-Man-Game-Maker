@@ -19,4 +19,4 @@ To learn how to play click the information, "i", button.
 
 Basic Custom Game Build:
 
-![plot]("./src/resources/Basic Game.png")
+![plot](./src/resources/Basic%20Game.png)
