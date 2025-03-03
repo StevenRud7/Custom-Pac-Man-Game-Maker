@@ -1,6 +1,6 @@
 # Custom-Pac-Man-Game-Maker
 
-This is a way to make your own custom Pac-Man Game. Full Code in the src/PacMan.
+This is a way to make your own custom Pac-Man Game. Full Code in src/PacMan.
 
 # Customizability options
 
